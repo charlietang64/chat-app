@@ -5,7 +5,7 @@ import ChatsPage from "./chatsPage";
 
 /**
  * The App component serves as the main entry point of the application.
- * It manages the authentication state of the user and decides which page to display based on whether the user is authenticated.
+ * It manages the authentication state of the user and decides which page to display based on whether a user is authenticated.
  * 
  * @returns {JSX.Element} The rendered component. If the user is not authenticated, it renders the AuthPage component,
  * allowing the user to authenticate. Once authenticated, it renders the ChatsPage component, passing the authenticated user data.
