@@ -135,7 +135,7 @@ const AuthPage = (props) => {
     box-shadow: 0px 4px 8px rgba(0,0,0,0.2); /* Enhanced shadow for better depth */
     background: #f0f0f0; /* Lighter background for the form area */
     padding: 20px;
-    margin-top: 20px; /* Added margin top for better positioning */
+    margin-top: 20px; /* Added margin top for better position */
   }
   .title { 
     margin-bottom: 20px; /* Increased space below title */
